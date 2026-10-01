@@ -2,3 +2,4 @@ CLAUDE.md
 context.md
 scripts/.env
 __pycache__/
+*.pbix
